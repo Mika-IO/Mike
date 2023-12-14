@@ -3,3 +3,8 @@ chardet==3.0.4
 idna==2.10
 requests==2.25.0
 urllib3==1.26.2
+openai==0.0.25
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+pyaudio==0.2.14
+pyobjc==10.1

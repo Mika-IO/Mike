@@ -6,17 +6,23 @@ O Mike é um assistente virtual que busca facilitar minha vida enquanto estou na
 
 > O Mike responde perguntas
 
-> O Mike entende minha fala 
+> O Mike entende minha fala
 
 > O Mike fala
 
-> O Mike usa o navegador
+> O Mike usa a internet
+
+> O Mike faz listas
+
+> O Mike sabe as horas
+
+> O Mike abre videos no youtube
 
 > O Mike lê arquivos
 
 > O Mike sabe python
 
-> O Mike faz pair programming 
+> O Mike faz pair programming
 
 > O Mike sabe html, js e css
 
